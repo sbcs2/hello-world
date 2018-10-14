@@ -1,2 +1,4 @@
 # hello-world
-just another repository
+
+Hi Human!
+It's my pre-lab9 hahahahahahahhahaha.
